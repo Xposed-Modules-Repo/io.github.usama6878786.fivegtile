@@ -67,3 +67,5 @@ HyperOS 的 5G 开关由电话进程里的 `com.android.phone.FiveGManager` 完�
 - 支持控制中心 5G 磁贴
 - 支持默认数据卡 / 指定 SIM 卡
 - 支持 HyperOS 4 / Android 17，LSPosed API 102
+
+<!-- updated -->
