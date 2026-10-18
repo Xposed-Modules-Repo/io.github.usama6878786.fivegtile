@@ -3,6 +3,9 @@
 在控制中心加一个「5G」磁贴，点一下就能开 / 关 5G，不用再进
 `设置 → 移动网络 → 5G网络`。
 
+- 源码：https://github.com/USAMA6878786/FiveGTile
+- LSPosed 仓库页面：https://modules.lsposed.org/module/io.github.usama6878786.fivegtile/
+
 ![应用界面](app.png)
 
 | 5G 已开启 | 5G 已关闭 |
@@ -67,5 +70,3 @@ HyperOS 的 5G 开关由电话进程里的 `com.android.phone.FiveGManager` 完�
 - 支持控制中心 5G 磁贴
 - 支持默认数据卡 / 指定 SIM 卡
 - 支持 HyperOS 4 / Android 17，LSPosed API 102
-
-<!-- updated -->
